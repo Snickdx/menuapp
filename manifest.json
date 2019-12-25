@@ -1,0 +1,16 @@
+{
+    "name": "Menu App",
+    "short_name": "Menu App",
+    "lang": "en-US",
+    "start_url": "index.html",
+    "display": "standalone",
+    "theme_color": "#EE6E73",
+    "icons": [
+      {
+        "src": "img/menuapp-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }

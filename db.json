@@ -1,0 +1,24 @@
+{
+  "meals": [
+    {
+      "description": "test",
+      "id": 1
+    },
+    {
+      "description": "meal 122",
+      "id": 2
+    },
+    {
+      "description": "Mew meal",
+      "id": 3
+    },
+    {
+      "description": "Foood lol",
+      "id": 4
+    },
+    {
+      "description": "Foood lol",
+      "id": 5
+    }
+  ]
+}
